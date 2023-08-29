@@ -1,0 +1,4 @@
+APScheduler
+configparser
+requests
+selenium
